@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Print the classic hello world greeting."""
+"""Print the hello super-agent greeting."""
 
 
 def main() -> None:
-    print("hello world")
+    print("hello super-agent")
 
 
 if __name__ == "__main__":
